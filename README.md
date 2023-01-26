@@ -1,4 +1,4 @@
-# GoLangWebServiceRepo
+# GoLangWebService
 
 This webservice is a golang service used for computing the averages for various classroom assignments.
 
