@@ -4,7 +4,7 @@ This webservice is a golang service used for computing the averages for various 
 
 ## Installation
 
-To pull down repo from github use link [pip](https://github.com/bragererin/GoLangWebServiceRepo) to install.
+To pull down repo from github use [link](https://github.com/bragererin/GoLangWebServiceRepo) to install.
 
 ### Testing
 
